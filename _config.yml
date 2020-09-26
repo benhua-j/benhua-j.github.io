@@ -30,7 +30,7 @@ twitter_username: jekyll
 github_username:  benhua-j
 
 # Build settings
-theme: hacker
+theme: minima
 plugins:
   - jekyll-feed
 
